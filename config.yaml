@@ -1,0 +1,6 @@
+site_name: Example Gym
+url: "https://examplegym.com/classes"
+selectors:
+  class_name: ".class-title"
+  schedule: ".class-time"
+  fee: ".price-info"
